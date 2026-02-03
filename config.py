@@ -26,7 +26,7 @@ VLM_RESIZE_WIDTH = 640
 VLM_RESIZE_HEIGHT = 480
 
 # Gemini Settings
-GEMINI_API_KEY = "AIzaSyBBGdd_E5z7yAIQ9OhGQIJIFIMFUI3g1Gk"
+GEMINI_API_KEY = ""
 GEMINI_MODEL = "gemini-flash-lite-latest"
 
 
