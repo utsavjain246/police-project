@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+numpy
+tqdm
+pillow
+opencv-python
+av
+
+# ML / VLM deps (can be heavy; install only if you use those paths)
+ultralytics
+supervision
+torch
+torchvision
+google-generativeai
+
